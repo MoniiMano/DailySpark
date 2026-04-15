@@ -43,23 +43,17 @@ This project follows a clean **MVC (Model-View-Controller)** architecture:
 
 ### Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd motivated-calendar
-   ```
-
-2. **Install dependencies**
+1. **Install dependencies**
    ```bash
    npm install
    ```
 
-3. **Start the development server**
+2. **Start the development server**
    ```bash
    npm run dev
    ```
 
-4. **Open your browser**
+3. **Open your browser**
    Navigate to `http://localhost:3000`
 
 ### Build for Production
@@ -193,24 +187,6 @@ theme: {
 }
 ```
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- Inspired by the need for daily motivation and achievement tracking
-- Built with modern React patterns and best practices
-- Designed with accessibility and user experience in mind
-
----
 
 **Stay motivated, track your progress, and celebrate every achievement! 🌟**
